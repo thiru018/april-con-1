@@ -1,0 +1,41 @@
+html{
+    font-family: 'Inter';
+  }
+  a{
+    color:inherit;
+  }
+  h2{
+    margin:0;
+  }
+  .blog{
+    border:2px solid black;
+    margin:10px;
+  }
+  .images,.blog,.trivia{
+    padding:10px;
+  }
+  
+  .title{
+    font-weight: 700;
+  }
+  .list{
+    padding:0;
+    margin:0;
+    font-weight:700;
+  }
+  .trivia ol{
+    padding:0;
+    list-style-position: inside;
+  }
+  ol li{
+    margin-bottom:10px;
+  }
+  .image{
+    margin: 10px 0;
+    max-width: 70%;
+  }
+  img{
+    width: 100%;
+    display: block;
+  }
+  
